@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+.gradle/
+.idea/caches
+.idea/libraries
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/assetWizardSettings.xml
+.idea/navEditor.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+
+# Keystore (jika ada)
+*.jks
+*.keystore
+key.properties
+
+# Android Studio generated
+captures/
+output.json
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
